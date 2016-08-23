@@ -1,0 +1,28 @@
+{
+  "name": "english-month-names",
+  "version": "1.0.0",
+  "description": "Gets all and random english month name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VJag/english-month-names.git"
+  },
+  "keywords": [
+    "Random",
+    "english",
+    "month",
+    "name"
+  ],
+  "author": "'Jagannadh <'jagannadh81@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VJag/english-month-names/issues"
+  },
+  "homepage": "https://github.com/VJag/english-month-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
